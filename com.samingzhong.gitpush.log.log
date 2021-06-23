@@ -9,3 +9,27 @@ github_url:
 --------------配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git ----------
 --------------读取仓库配置 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git ----------
 --------------执行git add;git commit;git push.... ----------
+[master c9d6c81] .
+ 1 file changed, 11 insertions(+)
+ create mode 100644 com.samingzhong.gitpush.log.log
+----同步到远程仓库/分支([origin/master])...
+remote: GitLab: You are not allowed to force push code to a protected branch on this project.
+To gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git
+ ! [remote rejected] master -> master (pre-receive hook declined)
+error: failed to push some refs to 'git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git'
+-----------------things done!!!---------------
+
+
+--------------配置远程仓库[origin-github]: ----------
+remote_url为空！！
+====================== / ==========================
+shellDir:/Users/samingzhong/myDev/myGithub/com.samingzhong.gitpush.log/.bash_tools
+pwd:/Users/samingzhong/myDev/myGithub/com.samingzhong.gitpush.log/.bash_tools
+---------读取到本地配置:------------
+gitlab_url:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git
+github_url:
+--------------
+
+--------------配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git ----------
+--------------读取仓库配置 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git ----------
+--------------执行git add;git commit;git push.... ----------
