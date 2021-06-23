@@ -78,3 +78,34 @@ Everything up-to-date
 -----------------things done!!!---------------
 
 
+====================== pwd:[/] 脚本执行开始时间:Thu Jun 24 00:04:56 CST 2021 ==========================
+shellDir:/Users/samingzhong/.mybash/.bash_tools
+pwd:/Users/samingzhong/.mybash/.bash_tools
+---------读取到本地配置:------------
+gitlab_url:git@gitlab.ruqimobility.local/my_bash_profile.git
+github_url:git@github.com:samingzhong/myBashProfile.git
+--------------
+
+--------------配置远程仓库[origin]:git@gitlab.ruqimobility.local/my_bash_profile.git ----------
+--------------读取仓库配置 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/my_bash_profile.git ----------
+--------------执行git add;git commit;git push.... ----------
+[master 94efd1e] .
+ 4 files changed, 8 insertions(+), 5 deletions(-)
+ create mode 100644 .DS_Store
+ create mode 100644 .bash_tools/.DS_Store
+----同步到远程仓库/分支([origin/master])...
+To gitlab.ruqimobility.local:zhongxiaoming/my_bash_profile.git
+   a0e1a0b..94efd1e  master -> master
+-----------------things done!!!---------------
+
+--------------配置远程仓库[origin-github]:git@github.com:samingzhong/myBashProfile.git ----------
+--------------读取仓库配置 remote.[origin-github].url:git@github.com:samingzhong/myBashProfile.git ----------
+无需重复执行git add; git commit等操作
+----同步到远程仓库/分支([origin-github/master])...
+To github.com:samingzhong/myBashProfile.git
+   a0e1a0b..94efd1e  master -> master
+-----------------things done!!!---------------
+
+====================== pwd:[/Users/samingzhong/.mybash] 脚本执行结束时间:Thu Jun 24 00:05:02 CST 2021 ==========================
+
+
