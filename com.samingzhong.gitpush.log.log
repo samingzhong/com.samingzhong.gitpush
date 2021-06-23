@@ -184,3 +184,31 @@ github_url:git@github.com:samingzhong/com.samingzhong.gitpush.git
 --------------配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git ----------
 --------------读取仓库配置 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git ----------
 --------------执行git add;git commit;git push.... ----------
+[master 07eeb93] .
+ 1 file changed, 28 insertions(+)
+----同步到远程仓库/分支([origin/master])...
+To gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git
+   0989d65..07eeb93  master -> master
+-----------------things done!!!---------------
+
+
+--------------配置远程仓库[origin-github]:git@github.com:samingzhong/com.samingzhong.gitpush.git ----------
+--------------读取仓库配置 remote.[origin-github].url:git@github.com:samingzhong/com.samingzhong.gitpush.git ----------
+无需重复执行git add; git commit等操作
+----同步到远程仓库/分支([origin-github/master])...
+To github.com:samingzhong/com.samingzhong.gitpush.git
+   0989d65..07eeb93  master -> master
+-----------------things done!!!---------------
+
+
+====================== / ==========================
+shellDir:/Users/samingzhong/myDev/myGithub/com.samingzhong.gitpush.log/.bash_tools
+pwd:/Users/samingzhong/myDev/myGithub/com.samingzhong.gitpush.log/.bash_tools
+---------读取到本地配置:------------
+gitlab_url:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git
+github_url:git@github.com:samingzhong/com.samingzhong.gitpush.git
+--------------
+
+--------------配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git ----------
+--------------读取仓库配置 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git ----------
+--------------执行git add;git commit;git push.... ----------
