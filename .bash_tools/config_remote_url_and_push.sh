@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-echo -e ====================== $(pwd) ==========================
+echo -e "====================== pwd:[$(pwd)] 脚本执行开始时间:$(date) =========================="
 
 # 每个项目需要单独配置此项 ./remote_config
 shellDir=$(dirname $0)
@@ -48,10 +48,12 @@ config_remote_url_and_push()
 		fi
 		echo -e "----同步到远程仓库/分支([$remote_name/master])..."
 		git push -f $remote_name master
-		echo -e '-----------------things done!!!---------------\n\n'
+		echo -e '-----------------things done!!!---------------\n'
 		
 	fi
 }
 
 config_remote_url_and_push origin $gitlab_url
 config_remote_url_and_push origin-github $github_url
+
+echo -e "====================== pwd:[$(pwd)] 脚本执行结束时间:$(date) ==========================\n\n"
