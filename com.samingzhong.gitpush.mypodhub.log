@@ -54,3 +54,14 @@ Everything up-to-date
 -----------------things done!!!---------------
 
 
+====================== / ==========================
+shellDir:/Users/samingzhong/myDev/myGithub/myApps/MyPodhub/.bash_tools
+pwd:/Users/samingzhong/myDev/myGithub/myApps/MyPodhub/.bash_tools
+---------读取到本地配置:------------
+gitlab_url:git@gitlab.ruqimobility.local:zhongxiaoming/mypodhub.git
+github_url:git@github.com:samingzhong/MyPodhub.git
+--------------
+
+--------------配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/mypodhub.git ----------
+--------------读取仓库配置 remote.[origin].url:http://gitlab.ruqimobility.local/zhongxiaoming/mypodhub.git ----------
+--------------执行git add;git commit;git push.... ----------

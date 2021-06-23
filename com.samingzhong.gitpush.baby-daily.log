@@ -270,3 +270,14 @@ Everything up-to-date
 ====================== pwd:[/Users/samingzhong/myDev/myGithub/myApps/Baby-Daily] 脚本执行结束时间:Thu Jun 24 00:05:00 CST 2021 ==========================
 
 
+====================== pwd:[/] 脚本执行开始时间:Thu Jun 24 01:00:05 CST 2021 ==========================
+shellDir:/Users/samingzhong/myDev/myGithub/myApps/Baby-Daily/.bash_tools
+pwd:/Users/samingzhong/myDev/myGithub/myApps/Baby-Daily/.bash_tools
+---------读取到本地配置:------------
+gitlab_url:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git
+github_url:git@github.com:samingzhong/Baby-Daily.git
+--------------
+
+--------------配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git ----------
+--------------读取仓库配置 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git ----------
+--------------执行git add;git commit;git push.... ----------

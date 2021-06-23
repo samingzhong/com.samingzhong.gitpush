@@ -296,3 +296,34 @@ github_url:git@github.com:samingzhong/com.samingzhong.gitpush.git
 --------------配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git ----------
 --------------读取仓库配置 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git ----------
 --------------执行git add;git commit;git push.... ----------
+[master 793b98f] .
+ 5 files changed, 62 insertions(+), 14 deletions(-)
+ create mode 100644 .DS_Store
+ delete mode 100644 ccom.samingzhong.gitpush.log.log
+----同步到远程仓库/分支([origin/master])...
+To gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git
+   cb81545..793b98f  master -> master
+-----------------things done!!!---------------
+
+--------------配置远程仓库[origin-github]:git@github.com:samingzhong/com.samingzhong.gitpush.git ----------
+--------------读取仓库配置 remote.[origin-github].url:git@github.com:samingzhong/com.samingzhong.gitpush.git ----------
+无需重复执行git add; git commit等操作
+----同步到远程仓库/分支([origin-github/master])...
+To github.com:samingzhong/com.samingzhong.gitpush.git
+   cb81545..793b98f  master -> master
+-----------------things done!!!---------------
+
+====================== pwd:[/Users/samingzhong/myDev/myGithub/com.samingzhong.gitpush.log] 脚本执行结束时间:Thu Jun 24 00:39:24 CST 2021 ==========================
+
+
+====================== pwd:[/] 脚本执行开始时间:Thu Jun 24 01:00:05 CST 2021 ==========================
+shellDir:/Users/samingzhong/myDev/myGithub/com.samingzhong.gitpush.log/.bash_tools
+pwd:/Users/samingzhong/myDev/myGithub/com.samingzhong.gitpush.log/.bash_tools
+---------读取到本地配置:------------
+gitlab_url:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git
+github_url:git@github.com:samingzhong/com.samingzhong.gitpush.git
+--------------
+
+--------------配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git ----------
+--------------读取仓库配置 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/com.samingzhong.gitpush.log.git ----------
+--------------执行git add;git commit;git push.... ----------

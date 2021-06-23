@@ -138,3 +138,14 @@ To github.com:samingzhong/myBashProfile.git
 ====================== pwd:[/Users/samingzhong/.mybash] 脚本执行结束时间:Thu Jun 24 00:38:15 CST 2021 ==========================
 
 
+====================== pwd:[/] 脚本执行开始时间:Thu Jun 24 01:00:05 CST 2021 ==========================
+shellDir:/Users/samingzhong/.mybash/.bash_tools
+pwd:/Users/samingzhong/.mybash/.bash_tools
+---------读取到本地配置:------------
+gitlab_url:git@gitlab.ruqimobility.local/my_bash_profile.git
+github_url:git@github.com:samingzhong/myBashProfile.git
+--------------
+
+--------------配置远程仓库[origin]:git@gitlab.ruqimobility.local/my_bash_profile.git ----------
+--------------读取仓库配置 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/my_bash_profile.git ----------
+--------------执行git add;git commit;git push.... ----------
