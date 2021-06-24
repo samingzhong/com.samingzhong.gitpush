@@ -38,3 +38,16 @@ To github.com:samingzhong/MyPodhub.git
 ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
 
 
+shellDir:/Users/samingzhong/myDev/myGithub/myApps/MyPodhub/.bash_tools
+pwd:/Users/samingzhong/myDev/myGithub/myApps/MyPodhub/.bash_tools
+☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎ 执行git push 操作开始 ☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎
+====================== pwd:🏠🏠🏠🏠🏠🏠🏠🏠🏠🏠[/Users/samingzhong/myDev/myGithub/myApps/MyPodhub/.bash_tools]🏠🏠🏠🏠🏠🏠🏠🏠🏠
+脚本执行开始时间:2021.06.25 01:30:00-Friday ==========================
+---------读取到本地配置:------------
+gitlab_url:git@gitlab.ruqimobility.local:zhongxiaoming/mypodhub.git
+github_url:git@github.com:samingzhong/MyPodhub.git
+----------------------------
+
+--------------尝试配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/mypodhub.git (如果git尚未配置origin) ----------
+--------------读取到仓库配置非空 remote.[origin].url:http://gitlab.ruqimobility.local/zhongxiaoming/mypodhub.git ----------
+--------------执行git add;git commit;git push.... ----------
