@@ -280,3 +280,77 @@ Everything up-to-date
 ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
 
 
+shellDir:/Users/samchung/Documents/myApps/Baby-Daily/.bash_tools
+pwd:/Users/samchung/Documents/myApps/Baby-Daily/.bash_tools
+====================== 执行git push 操作开始 ======================
+====================== pwd:🏠🏠🏠🏠🏠🏠🏠🏠🏠🏠[/Users/samchung/Documents/myApps/Baby-Daily/.bash_tools]🏠🏠🏠🏠🏠🏠🏠🏠🏠
+脚本执行开始时间:Thu Jun 24 16:23:42 CST 2021 ==========================
+---------读取到本地配置:------------
+gitlab_url:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git
+github_url:git@github.com:samingzhong/Baby-Daily.git
+----------------------------
+
+--------------尝试配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git (如果git尚未配置origin) ----------
+--------------读取到仓库配置非空 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git ----------
+--------------执行git add;git commit;git push.... ----------
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+--------------	同步到远程仓库/分支([origin/master])...
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀[master]․․․․․․․․․>[origin/master]🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+Everything up-to-date
+-----------------things done!!!---------------
+
+
+--------------尝试配置远程仓库[origin-github]:git@github.com:samingzhong/Baby-Daily.git (如果git尚未配置origin-github) ----------
+--------------读取到仓库配置非空 remote.[origin-github].url:git@github.com:samingzhong/Baby-Daily.git ----------
+无需重复执行git add; git commit等操作
+--------------	同步到远程仓库/分支([origin-github/master])...
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀[master]․․․․․․․․․>[origin-github/master]🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+Everything up-to-date
+-----------------things done!!!---------------
+
+
+====================== 执行git push 操作结束 ======================
+====================== pwd:[/Users/samchung/Documents/myApps/Baby-Daily] 脚本执行结束时间:Thu Jun 24 16:23:46 CST 2021 ==========================
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
+
+
+shellDir:/Users/samchung/Documents/myApps/Baby-Daily/.bash_tools
+pwd:/Users/samchung/Documents/myApps/Baby-Daily/.bash_tools
+====================== 执行git push 操作开始 ======================
+====================== pwd:🏠🏠🏠🏠🏠🏠🏠🏠🏠🏠[/Users/samchung/Documents/myApps/Baby-Daily/.bash_tools]🏠🏠🏠🏠🏠🏠🏠🏠🏠
+脚本执行开始时间:Thu Jun 24 16:24:07 CST 2021 ==========================
+---------读取到本地配置:------------
+gitlab_url:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git
+github_url:git@github.com:samingzhong/Baby-Daily.git
+----------------------------
+
+--------------尝试配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git (如果git尚未配置origin) ----------
+--------------读取到仓库配置非空 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git ----------
+--------------执行git add;git commit;git push.... ----------
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+--------------	同步到远程仓库/分支([origin/master])...
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀[master]․․․․․․․․․>[origin/master]🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+Everything up-to-date
+-----------------things done!!!---------------
+
+
+--------------尝试配置远程仓库[origin-github]:git@github.com:samingzhong/Baby-Daily.git (如果git尚未配置origin-github) ----------
+--------------读取到仓库配置非空 remote.[origin-github].url:git@github.com:samingzhong/Baby-Daily.git ----------
+无需重复执行git add; git commit等操作
+--------------	同步到远程仓库/分支([origin-github/master])...
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀[master]․․․․․․․․․>[origin-github/master]🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+Everything up-to-date
+-----------------things done!!!---------------
+
+
+====================== 执行git push 操作结束 ======================
+====================== pwd:[/Users/samchung/Documents/myApps/Baby-Daily] 脚本执行结束时间:Thu Jun 24 16:24:10 CST 2021 ==========================
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
+
+
