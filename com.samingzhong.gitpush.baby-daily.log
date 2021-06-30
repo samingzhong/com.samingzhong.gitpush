@@ -123,3 +123,40 @@ github_url:git@github.com:samingzhong/Baby-Daily.git
 --------------尝试配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git (如果git尚未配置origin) ----------
 --------------读取到仓库配置非空 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git ----------
 --------------执行git add;git commit;git push.... ----------
+[master d45cb51] .
+ 2 files changed, 2 insertions(+), 10 deletions(-)
+--------------	同步到远程仓库/分支([origin/master])...
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀[master]․․․․․․․․․>[origin/master]🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+To gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git
+   a926761..d45cb51  master -> master
+-----------------things done!!!---------------
+
+
+--------------尝试配置远程仓库[origin-github]:git@github.com:samingzhong/Baby-Daily.git (如果git尚未配置origin-github) ----------
+--------------读取到仓库配置非空 remote.[origin-github].url:git@github.com:samingzhong/Baby-Daily.git ----------
+无需重复执行git add; git commit等操作
+--------------	同步到远程仓库/分支([origin-github/master])...
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀[master]․․․․․․․․․>[origin-github/master]🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+To github.com:samingzhong/Baby-Daily.git
+   a926761..d45cb51  master -> master
+-----------------things done!!!---------------
+
+
+☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎ 执行git push 操作结束 ☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎
+====================== pwd:[/Users/samingzhong/myDev/myGithub/myApps/Baby-Daily] 脚本执行结束时间:2021.06.25 01:30:07-Friday ==========================
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
+
+
+shellDir:/Users/samingzhong/myDev/myGithub/myApps/Baby-Daily/.bash_tools
+pwd:/Users/samingzhong/myDev/myGithub/myApps/Baby-Daily/.bash_tools
+☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎ 执行git push 操作开始 ☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎
+====================== pwd:🏠🏠🏠🏠🏠🏠🏠🏠🏠🏠[/Users/samingzhong/myDev/myGithub/myApps/Baby-Daily/.bash_tools]🏠🏠🏠🏠🏠🏠🏠🏠🏠
+脚本执行开始时间:2021.06.30 09:00:00-Wednesday ==========================
+---------读取到本地配置:------------
+gitlab_url:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git
+github_url:git@github.com:samingzhong/Baby-Daily.git
+----------------------------
+
+--------------尝试配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git (如果git尚未配置origin) ----------
+--------------读取到仓库配置非空 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/Baby-Daily.git ----------
+--------------执行git add;git commit;git push.... ----------
