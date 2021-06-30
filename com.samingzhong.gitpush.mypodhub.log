@@ -88,3 +88,42 @@ github_url:git@github.com:samingzhong/MyPodhub.git
 --------------尝试配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/mypodhub.git (如果git尚未配置origin) ----------
 --------------读取到仓库配置非空 remote.[origin].url:http://gitlab.ruqimobility.local/zhongxiaoming/mypodhub.git ----------
 --------------执行git add;git commit;git push.... ----------
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+--------------	同步到远程仓库/分支([origin/master])...
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀[master]․․․․․․․․․>[origin/master]🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+fatal: unable to access 'http://gitlab.ruqimobility.local/zhongxiaoming/mypodhub.git/': Could not resolve host: gitlab.ruqimobility.local
+-----------------things done!!!---------------
+
+
+--------------尝试配置远程仓库[origin-github]:git@github.com:samingzhong/MyPodhub.git (如果git尚未配置origin-github) ----------
+--------------读取到仓库配置非空 remote.[origin-github].url:git@github.com:samingzhong/MyPodhub.git ----------
+无需重复执行git add; git commit等操作
+--------------	同步到远程仓库/分支([origin-github/master])...
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀[master]․․․․․․․․․>[origin-github/master]🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+To github.com:samingzhong/MyPodhub.git
+   76aeb74..cb4e167  master -> master
+-----------------things done!!!---------------
+
+
+☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎ 执行git push 操作结束 ☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎
+====================== pwd:[/Users/samingzhong/myDev/myGithub/myApps/MyPodhub] 脚本执行结束时间:2021.06.30 09:00:10-Wednesday ==========================
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
+
+
+shellDir:/Users/samingzhong/myDev/myGithub/myApps/MyPodhub/.bash_tools
+pwd:/Users/samingzhong/myDev/myGithub/myApps/MyPodhub/.bash_tools
+☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎ 执行git push 操作开始 ☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎
+====================== pwd:🏠🏠🏠🏠🏠🏠🏠🏠🏠🏠[/Users/samingzhong/myDev/myGithub/myApps/MyPodhub/.bash_tools]🏠🏠🏠🏠🏠🏠🏠🏠🏠
+脚本执行开始时间:2021.07.01 01:32:52-Thursday ==========================
+---------读取到本地配置:------------
+gitlab_url:git@gitlab.ruqimobility.local:zhongxiaoming/mypodhub.git
+github_url:git@github.com:samingzhong/MyPodhub.git
+----------------------------
+
+--------------尝试配置远程仓库[origin]:git@gitlab.ruqimobility.local:zhongxiaoming/mypodhub.git (如果git尚未配置origin) ----------
+--------------读取到仓库配置非空 remote.[origin].url:http://gitlab.ruqimobility.local/zhongxiaoming/mypodhub.git ----------
+--------------执行git add;git commit;git push.... ----------

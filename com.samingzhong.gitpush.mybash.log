@@ -156,3 +156,22 @@ github_url:git@github.com:samingzhong/myBashProfile.git
 --------------尝试配置远程仓库[origin]:git@gitlab.ruqimobility.local/my_bash_profile.git (如果git尚未配置origin) ----------
 --------------读取到仓库配置非空 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/my_bash_profile.git ----------
 --------------执行git add;git commit;git push.... ----------
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+--------------	同步到远程仓库/分支([origin/master])...
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀[master]․․․․․․․․․>[origin/master]🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+shellDir:/Users/samingzhong/.mybash/.bash_tools
+pwd:/Users/samingzhong/.mybash/.bash_tools
+☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎ 执行git push 操作开始 ☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎☀︎
+====================== pwd:🏠🏠🏠🏠🏠🏠🏠🏠🏠🏠[/Users/samingzhong/.mybash/.bash_tools]🏠🏠🏠🏠🏠🏠🏠🏠🏠
+脚本执行开始时间:2021.07.01 01:32:52-Thursday ==========================
+---------读取到本地配置:------------
+gitlab_url:git@gitlab.ruqimobility.local/my_bash_profile.git
+github_url:git@github.com:samingzhong/myBashProfile.git
+----------------------------
+
+--------------尝试配置远程仓库[origin]:git@gitlab.ruqimobility.local/my_bash_profile.git (如果git尚未配置origin) ----------
+--------------读取到仓库配置非空 remote.[origin].url:git@gitlab.ruqimobility.local:zhongxiaoming/my_bash_profile.git ----------
+--------------执行git add;git commit;git push.... ----------
